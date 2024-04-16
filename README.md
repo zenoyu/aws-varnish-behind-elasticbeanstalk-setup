@@ -1,5 +1,7 @@
 # Setup of Varnish in AWS (with ELB or Elasticbeanstalk as backend)
 
+Full article:
+https://medium.com/@zeno.yu/setup-of-varnish-in-aws-with-elb-or-elasticbeanstalk-as-backend-b115a601df4a
 
 # Install varnish & nginx (blank)
 ssh into the instance
